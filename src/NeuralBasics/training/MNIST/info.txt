@@ -1,0 +1,1 @@
+Test set images/labels downloaded from http://yann.lecun.com/exdb/mnist/
